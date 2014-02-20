@@ -1,5 +1,5 @@
 {
-  "name": "focus",
+  "name": "component-focus",
   "description": "Image focal point detection",
   "version": "0.0.1",
   "keywords": [
@@ -10,11 +10,6 @@
     "subject"
   ],
   "dependencies": {
-    "convolve": "*"
-  },
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/focus.git"
+    "component-convolve": "git://github.com/npmcomponent/component-convolve.git"
   }
 }

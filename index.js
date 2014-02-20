@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var convolve = require('convolve')
+var convolve = require('component-convolve')
   , Segment = require('./segment')
   , edges = require('./edges');
 
